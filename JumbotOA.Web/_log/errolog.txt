@@ -1,0 +1,75 @@
+﻿	2011-07-04 10:26:57	
+System.Runtime.InteropServices.COMException (0x8000FFFF): WSAGetLastError() returned 11004, No Data; perhaps no route to host   
+   在 jmail.POP3Class.Connect(String Username, String Password, String Server, Int32 Port)
+   在 CGWNetOA.Web.Home4.bangemmail() 位置 E:\Working\2011\CGWNetOA110701_1\OA_src\CGWNetOA.Web\Home4.aspx.cs:行号 95
+---------------------------------------------------------------------------------------------------
+	2011-07-05 12:48:52	
+System.FormatException: 该字符串未被识别为有效的 DateTime。有一个从索引 7 处开始的未知字。
+   在 System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   在 System.DateTime.Parse(String s, IFormatProvider provider)
+   在 System.Convert.ToDateTime(String value)
+   在 CGWNetOA.Web.Home4.bangemmail()
+---------------------------------------------------------------------------------------------------
+	2011-07-05 12:49:04	
+System.FormatException: 该字符串未被识别为有效的 DateTime。有一个从索引 7 处开始的未知字。
+   在 System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   在 System.DateTime.Parse(String s, IFormatProvider provider)
+   在 System.Convert.ToDateTime(String value)
+   在 CGWNetOA.Web.Home4.bangemmail()
+---------------------------------------------------------------------------------------------------
+	2011-07-05 12:50:07	
+System.FormatException: 该字符串未被识别为有效的 DateTime。有一个从索引 7 处开始的未知字。
+   在 System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   在 System.DateTime.Parse(String s, IFormatProvider provider)
+   在 System.Convert.ToDateTime(String value)
+   在 CGWNetOA.Web.Home4.bangemmail()
+---------------------------------------------------------------------------------------------------
+	2011-07-05 12:52:16	
+System.FormatException: 该字符串未被识别为有效的 DateTime。有一个从索引 7 处开始的未知字。
+   在 System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   在 System.DateTime.Parse(String s, IFormatProvider provider)
+   在 System.Convert.ToDateTime(String value)
+   在 CGWNetOA.Web.Home4.bangemmail() 位置 E:\working\OA Updata\周改\CGWNetOA110704_1\OA_src\CGWNetOA.Web\Home4.aspx.cs:行号 106
+---------------------------------------------------------------------------------------------------
+	2011-07-05 12:53:59	
+System.FormatException: 日历 System.Globalization.GregorianCalendar 中不支持该字符串所表示的 DateTime。
+   在 System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   在 System.DateTime.Parse(String s, IFormatProvider provider)
+   在 System.Convert.ToDateTime(String value)
+   在 CGWNetOA.Web.Home4.bangemmail() 位置 E:\working\OA Updata\周改\CGWNetOA110704_1\OA_src\CGWNetOA.Web\Home4.aspx.cs:行号 106
+---------------------------------------------------------------------------------------------------
+	2011-07-05 12:54:09	
+System.FormatException: 日历 System.Globalization.GregorianCalendar 中不支持该字符串所表示的 DateTime。
+   在 System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   在 System.DateTime.Parse(String s, IFormatProvider provider)
+   在 System.Convert.ToDateTime(String value)
+   在 CGWNetOA.Web.Home4.bangemmail() 位置 E:\working\OA Updata\周改\CGWNetOA110704_1\OA_src\CGWNetOA.Web\Home4.aspx.cs:行号 106
+---------------------------------------------------------------------------------------------------
+	2011-07-05 12:56:39	
+System.FormatException: 日历 System.Globalization.GregorianCalendar 中不支持该字符串所表示的 DateTime。
+   在 System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   在 System.DateTime.Parse(String s, IFormatProvider provider)
+   在 System.Convert.ToDateTime(String value)
+   在 CGWNetOA.Web.Home4.bangemmail() 位置 E:\working\OA Updata\周改\CGWNetOA110704_1\OA_src\CGWNetOA.Web\Home4.aspx.cs:行号 106
+---------------------------------------------------------------------------------------------------
+	2011-07-05 12:56:46	
+System.FormatException: 日历 System.Globalization.GregorianCalendar 中不支持该字符串所表示的 DateTime。
+   在 System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   在 System.DateTime.Parse(String s, IFormatProvider provider)
+   在 System.Convert.ToDateTime(String value)
+   在 CGWNetOA.Web.Home4.bangemmail() 位置 E:\working\OA Updata\周改\CGWNetOA110704_1\OA_src\CGWNetOA.Web\Home4.aspx.cs:行号 106
+---------------------------------------------------------------------------------------------------
+	2011-07-05 13:01:09	
+System.FormatException: 日历 System.Globalization.GregorianCalendar 中不支持该字符串所表示的 DateTime。
+   在 System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   在 System.DateTime.Parse(String s, IFormatProvider provider)
+   在 System.Convert.ToDateTime(String value)
+   在 CGWNetOA.Web.Home4.bangemmail() 位置 E:\working\OA Updata\周改\CGWNetOA110704_1\OA_src\CGWNetOA.Web\Home4.aspx.cs:行号 101
+---------------------------------------------------------------------------------------------------
+	2011-07-05 13:02:53	
+System.FormatException: 日历 System.Globalization.GregorianCalendar 中不支持该字符串所表示的 DateTime。
+   在 System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   在 System.DateTime.Parse(String s, IFormatProvider provider)
+   在 System.Convert.ToDateTime(String value)
+   在 CGWNetOA.Web.Home4.bangemmail() 位置 E:\working\OA Updata\周改\CGWNetOA110704_1\OA_src\CGWNetOA.Web\Home4.aspx.cs:行号 101
+---------------------------------------------------------------------------------------------------
